@@ -1,0 +1,79 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: #F1F0F1;
+}
+header h1{
+	background: #A65C9B;
+	text-align: center;
+	margin-right: 400px;
+	margin-left: 400px;
+	margin-top: 20px;
+}
+.intro{
+	text-align: justify;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.imagen1{
+	float: left;
+	margin-left: 120px;
+}
+.imagen2{
+	float: right;
+	margin-right: 120px;
+}
+.intro h2{
+	margin-top: 20px;
+	font-size: 25px;
+	text-align: left;
+	margin-bottom: 20px;
+}
+.intro p{
+	margin-top: 240px;
+}
+.cuerpo{
+	text-align: justify;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.cuerpo h2{
+	margin-top: 20px;
+}
+.cuerpo h3{
+	margin-top: 30px;
+}
+.cuerpo img{
+	margin-top: 10px;
+	width: 30%;
+}
+.pie{
+	background: #393C3C;
+	padding-bottom: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.pie h3{
+	color: #ffffff;
+	margin-top: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+h3{
+	font-size: 20px;
+}
+.registro1{
+	background: #A9C9DA;
+}
+.registro{
+	background: #5095BA;
+	margin-left: 500px;
+	margin-right: 600px;
+	margin-top: 100px;
+}
+.registro h2{
+	text-align: center;
+}
